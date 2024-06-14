@@ -1,5 +1,7 @@
 # rick-and-morty-task
 
+Project for a job vacancy where I had to create a page where you can view characters from Rick and Morty using the open api https://rickandmortyapi.com/.
+
 ## Project setup
 ```
 npm install
